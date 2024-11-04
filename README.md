@@ -48,7 +48,6 @@ class SpineModel(nn.Module):
 
 ## Links
 - Competition Link: [RSNA 2024 Competition](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification)
-- GitHub Repository: [Your repo link]
 
 ## Skills Demonstrated
 - Deep Learning
